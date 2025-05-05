@@ -1,5 +1,5 @@
 fastapi
+boto3
 uvicorn
-google-cloud-speech
-google-cloud-storage
-python-multipart
+dotenv
+pytest
